@@ -1,0 +1,2 @@
+timestamp,pm25,co2,voc,temperature,humidity,aqi,device_id
+17:33.0,83,1384,403,25,44,Poor,ESP32_01
